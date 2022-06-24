@@ -31,37 +31,7 @@
   .details{
       flex: .5;
   };
-  
-  .rating{
-      background-color: green;
-  }
-  
-  @media (max-width:772px){
-      .iteamsdetails{
-          flex-direction: column;
-          align-items: center;
-          justify-content: center;
-      }
-  }
-  
-  @media (max-width:450px){
-      .smalltrash{
-          display: block;
-      }
-      .largetrash{
-          display:none;
-      }
-      .emptycart_img{
-          margin-right: 50px;
-      }
-      .smallclose{
-          display: none;
-      }
-  
-      /* individual iteams details */
-     
-      .items_img img{
-          width: 16rem;
-      }
-      
+.star_icons{
+    color: yellow;
+    font-size: 400;
   }
