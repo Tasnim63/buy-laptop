@@ -1,7 +1,7 @@
 const Cardsdata = [
   {
     id: 1,
-    rname: "Massala Theoryy",
+    rname: "Laptop Mock",
     imgdata:
       "https://img.freepik.com/free-psd/laptop-mock-up_1310-197.jpg?size=626&ext=jpg&uid=R64903934&ga=GA1.2.270866342.1647831681",
     address: "North Indian, Biryani, Mughlai",
@@ -16,7 +16,7 @@ const Cardsdata = [
   },
   {
     id: 2,
-    rname: "Jugaadi Adda",
+    rname: "Laptop Mock",
     imgdata:
       "https://img.freepik.com/free-psd/laptop-psd-mockup-with-gradient-led-light_53876-138283.jpg?t=st=1655896547~exp=1655897147~hmac=6e24f331d2110efeb2a535200bc97fc57bafbb71f0a15bf90193c7cd892d2542&w=1060",
     address: "Street Food",
@@ -31,7 +31,7 @@ const Cardsdata = [
   },
   {
     id: 3,
-    rname: "La Milano Pizzeria",
+    rname: "Laptop Mock",
     imgdata:
       "https://img.freepik.com/free-vector/digital-device-mockup_53876-89360.jpg?t=st=1655896547~exp=1655897147~hmac=45ef319bae3d3d723ea5f91dd690f5700697be09b6bdaa6a35a343a6ed45198d&w=826",
     address: "Pizza, Fast Food, Pasta",
@@ -46,7 +46,7 @@ const Cardsdata = [
   },
   {
     id: 4,
-    rname: "Momoman",
+    rname: "Laptop Mock",
     imgdata:
       "https://img.freepik.com/free-psd/front-view-laptop-mock-up-interior-decoration_23-2148690919.jpg?w=1480&t=st=1655896720~exp=1655897320~hmac=b29873e167a784390f52f622d741e28ce024a30a1b5cfda9848dedd90e22c528",
     address: "Momos",
@@ -61,9 +61,9 @@ const Cardsdata = [
   },
   {
     id: 5,
-    rname: "Jassi De Parathe",
+    rname: "Laptop Mock",
     imgdata:
-      "https://www.freepik.com/free-psd/cyber-monday-sale-composition-mock-up_9942844.htm#query=laptop&position=14&from_view=search",
+      "https://img.freepik.com/free-psd/home-spaces-still-life-mockup_23-2149060795.jpg?size=626&ext=jpg&uid=R64903934&ga=GA1.2.270866342.1647831681",
     address: "North Indian",
     delimg:
       "https://www.freepik.com/free-psd/cyber-monday-sale-composition-mock-up_9942844.htm#query=laptop&position=14&from_view=search",
@@ -76,9 +76,9 @@ const Cardsdata = [
   },
   {
     id: 6,
-    rname: "Anjoy Latenight Meals",
+    rname: "Laptop Mock",
     imgdata:
-      "https://img.freepik.com/free-photo/laptop-with-blank-black-screen-white-table_53876-97915.jpg?w=1380&t=st=1655896798~exp=1655897398~hmac=3563370960c097c855008bbc1d73bad484c0d6d22c88fb7331e0c55350c8829a",
+      "https://img.freepik.com/free-psd/front-view-laptop-mock-up-interior-decoration_23-2148690919.jpg?w=1480&t=st=1655896720~exp=1655897320~hmac=b29873e167a784390f52f622d741e28ce024a30a1b5cfda9848dedd90e22c528",
     address: "Wraps FastFood, Chines",
     delimg:
       "https://img.freepik.com/free-photo/laptop-with-blank-black-screen-white-table_53876-97915.jpg?w=1380&t=st=1655896798~exp=1655897398~hmac=3563370960c097c855008bbc1d73bad484c0d6d22c88fb7331e0c55350c8829a",
@@ -91,9 +91,9 @@ const Cardsdata = [
   },
   {
     id: 7,
-    rname: "Hocco Eatery",
+    rname: "Laptop Mock",
     imgdata:
-      "https://www.freepik.com/free-psd/office-desk-concept-with-mock-up_10354920.htm#&position=3&from_view=detail#&position=3&from_view=detail",
+      "https://img.freepik.com/free-psd/laptop-mock-up_1310-197.jpg?size=626&ext=jpg&uid=R64903934&ga=GA1.2.270866342.1647831681",
     address: "North Indian, Fast Food",
     delimg:
       "https://www.freepik.com/free-psd/office-desk-concept-with-mock-up_10354920.htm#&position=3&from_view=detail#&position=3&from_view=detail",
@@ -106,9 +106,9 @@ const Cardsdata = [
   },
   {
     id: 8,
-    rname: "Chai Wai",
+    rname: "Laptop Mock",
     imgdata:
-      "https://img.freepik.com/free-psd/home-spaces-still-life-mockup_23-2149060795.jpg?size=626&ext=jpg&uid=R64903934&ga=GA1.2.270866342.1647831681",
+      "https://img.freepik.com/free-psd/laptop-mock-up_1310-197.jpg?size=626&ext=jpg&uid=R64903934&ga=GA1.2.270866342.1647831681",
     address: "Tea, Coffee, Shake, Beverages",
     delimg:
       "https://img.freepik.com/free-psd/home-spaces-still-life-mockup_23-2149060795.jpg?size=626&ext=jpg&uid=R64903934&ga=GA1.2.270866342.1647831681",
@@ -121,9 +121,9 @@ const Cardsdata = [
   },
   {
     id: 9,
-    rname: "HL Frankie",
+    rname: "Laptop Mock",
     imgdata:
-      "https://www.freepik.com/free-psd/children-desks-with-still-life-mockup_19332416.htm#&position=15&from_view=detail#&position=15&from_view=detail",
+      "https://img.freepik.com/free-psd/home-spaces-still-life-mockup_23-2149060795.jpg?size=626&ext=jpg&uid=R64903934&ga=GA1.2.270866342.1647831681",
     address: "Burger, Sandwich, Fast Food",
     delimg:
       "https://www.freepik.com/free-psd/children-desks-with-still-life-mockup_19332416.htm#&position=15&from_view=detail#&position=15&from_view=detail",
